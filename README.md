@@ -4,7 +4,9 @@
   <img src="https://github.com/cogniworks12/cogniworks12/raw/main/lnkedin_bg.jpeg" alt="CogniWorks AI Banner">
 </p>
 
-<h3 align="center">🔹 AI Agents • Large Language Models • RAG Optimization • Automation • Computer Vision • Web Scraping</h3>
+<h3 align="center">
+  🔹 AI Agents &nbsp;|&nbsp; Large Language Models &nbsp;|&nbsp; RAG Optimization &nbsp;|&nbsp; Automation &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Web Scraping
+</h3>
 
 ---
 
