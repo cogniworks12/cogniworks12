@@ -8,6 +8,14 @@
   🔹 AI Agents &nbsp;|&nbsp; Large Language Models &nbsp;|&nbsp; RAG Optimization &nbsp;|&nbsp; Automation &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Web Scraping
 </h3>
 
+<p align="center">
+  <a href="https://linkedin.com/company/cogniworks-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+</p>
+
 ---
 
 ## 🌍 **About CogniWorks AI**
@@ -69,8 +77,8 @@ We leverage **state-of-the-art AI frameworks, cloud-based deployment, and multi-
 
 ## 📊 **GitHub Statistics**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cogniworks12&show_icons=true&theme=radical" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cogniworks12&theme=radical" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=cogniworks12&show_icons=true&theme=react" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cogniworks12&theme=react" width="400px">
 </p>
 
 ---
