@@ -34,7 +34,7 @@ We leverage **state-of-the-art AI frameworks, cloud-based deployment, and multi-
 ## 🔥 **Our AI Capabilities**
 
 ### 🧠 **Large Language Models (LLMs) & Fine-Tuning**
-🔹 **Custom fine-tuning** of **GPT, LLaMA, DeepSeek, Falcon, Mistral, and domain-specific AI models**  
+🔹 **Custom fine-tuning** of **GPT, LLaMA, DeepSeek, Falcon, Mistral, and domain-specific AI**  
 🔹 **Retrieval-Augmented Generation (RAG)** for **enhanced AI-driven knowledge retrieval**  
 🔹 **Multimodal AI** (Text, Speech, Vision, and Structured Data)  
 🔹 **Scalable AI APIs** for real-time AI inference & decision-making  
