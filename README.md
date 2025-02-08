@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Welcome to CogniWorks AI</h1>
 <p align="center">
-  <img src="https://github.com/cogniworks12/cogniworks12/lnkedin_bg.jpeg" alt="CogniWorks AI Banner">
+  <img src="https://github.com/cogniworks12/cogniworks12/raw/main/lnkedin_bg.jpeg" alt="CogniWorks AI Banner">
 </p>
 
 <h3 align="center">🔹 AI Agents • Large Language Models • RAG Optimization • Automation • Computer Vision • Web Scraping</h3>
